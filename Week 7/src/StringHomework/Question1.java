@@ -5,12 +5,10 @@ package StringHomework;
 public class Question1 {
 
     public static void main(String[] args) {
-
-        Question1 print = new Question1();
-        print.printFullName();
+        printFullName();
 
     }
-    public static void printFullName() {
+     static void printFullName() {
          String firstName = "Miten";
          String lastName = "Patel";
 
@@ -18,7 +16,7 @@ public class Question1 {
         printSurname(lastName);
     }
 
-    public static void printSurname(String surname) {
+     static void printSurname(String surname) {
         System.out.println(surname);
     }
 

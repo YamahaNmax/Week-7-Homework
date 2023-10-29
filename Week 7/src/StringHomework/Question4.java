@@ -5,9 +5,7 @@ package StringHomework;
 
 public class Question4 {
     public static void main(String[] args) {
-
-        Question4 print = new Question4();
-        print.length();
+        length();
     }
 
     public static void length(){

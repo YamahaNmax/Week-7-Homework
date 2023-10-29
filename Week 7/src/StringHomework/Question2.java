@@ -10,7 +10,7 @@ public class Question2 {
         print.trim();
     }
 
-    public static void trim(){
+    public void trim(){
         String input = "  I love java  ";
         String print = input.trim();
 

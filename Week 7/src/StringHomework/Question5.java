@@ -11,7 +11,7 @@ public class Question5 {
 
     }
 
-    public static void connect(){
+    public void connect(){
         String name1 = "I love java";
         String name2 = "I dream java";
 

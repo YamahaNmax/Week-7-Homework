@@ -5,8 +5,7 @@ package StringHomework;
 public class Question7 {
     public static void main(String[] args) {
 
-        Question7 print = new Question7();
-        print.upperCase();
+        upperCase();
     }
 
     public static void upperCase(){
