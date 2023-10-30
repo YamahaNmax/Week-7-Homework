@@ -8,7 +8,7 @@ public class Question7 {
         upperCase();
     }
 
-    public static void upperCase(){
+    public static void upperCase() {
         String original = "hello, i am codebuster student!";
         String upperCase = original.toUpperCase();
 

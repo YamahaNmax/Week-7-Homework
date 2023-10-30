@@ -8,15 +8,16 @@ public class Question1 {
         printFullName();
 
     }
-     static void printFullName() {
-         String firstName = "Miten";
-         String lastName = "Patel";
+
+    static void printFullName() {
+        String firstName = "Miten";
+        String lastName = "Patel";
 
         System.out.println(firstName + " " + lastName);
         printSurname(lastName);
     }
 
-     static void printSurname(String surname) {
+    static void printSurname(String surname) {
         System.out.println(surname);
     }
 

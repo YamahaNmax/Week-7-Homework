@@ -6,11 +6,11 @@ package StringHomework;
 public class Question2 {
     public static void main(String[] args) {
 
-        Question2 print =  new Question2();
+        Question2 print = new Question2();
         print.trim();
     }
 
-    public void trim(){
+    public void trim() {
         String input = "  I love java  ";
         String print = input.trim();
 

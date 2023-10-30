@@ -8,7 +8,7 @@ public class Question4 {
         length();
     }
 
-    public static void length(){
+    public static void length() {
         String text = "I love java";
         int length = text.length();
 

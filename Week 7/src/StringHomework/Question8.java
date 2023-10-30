@@ -9,7 +9,7 @@ public class Question8 {
         print.lowerClass();
     }
 
-    public void lowerClass(){
+    public void lowerClass() {
         String original = "I AM SOFTWARE TESTER!";
         String lowerCase = original.toLowerCase();
 

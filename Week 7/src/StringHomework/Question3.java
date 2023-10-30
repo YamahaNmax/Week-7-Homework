@@ -11,7 +11,7 @@ public class Question3 {
 
     }
 
-    public void replace(){
+    public void replace() {
 
         String original = "I love java";
         String replaced = original.replace("I", "We");

@@ -10,7 +10,7 @@ public class Question6 {
         print.replace();
     }
 
-    public void replace(){
+    public void replace() {
         String original = "I@love@java";
         String replaced1 = original.replace("@", " ");
         String replaced2 = replaced1.replace("I", "We");
